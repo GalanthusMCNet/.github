@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/TE4akXw.png" alt="GalanthusMC Network Logo">
-  
+  <br>
   <a href="https://github.com/GalanthusMCNet">
     <img src="https://komarev.com/ghpvc/?username=GalanthusMCNet&style=plastic&color=blueviolet" alt="GitHub Profile View Counter">
   </a>
