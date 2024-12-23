@@ -1,5 +1,3 @@
-<div align="center">
-  
 ---
 
 ![GalanthusMC Network Logo](https://i.imgur.com/TE4akXw.png)
@@ -78,5 +76,3 @@ Feel free to reach out to us for any inquiries or suggestions!
 ---
 
 <p align="center">Made with ❤️ by the GalanthusMC Network team.</p>
-
-</div>
