@@ -3,9 +3,6 @@
 ---
 
 ![GalanthusMC Network Logo](https://i.imgur.com/TE4akXw.png)
-
----
-
 [![](https://komarev.com/ghpvc/?username=GalanthusMCNet&style=plastic&color=blueviolet)](https://github.com/GalanthusMCNet)
 
 ---
