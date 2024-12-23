@@ -8,12 +8,10 @@
 
 ---
 
-# Welcome to GalanthusMC Network
+# Welcome to the GalanthusMC Network
   
-GalanthusMC Network is a Minecraft Java HCF (Hardcore Factions) server focused on delivering an intense, action-packed experience with a variety of custom features, plugins, and a strong community.
-
+GalanthusMC is a Minecraft Java HCF (Hardcore Factions) server focused on delivering an intense, action-packed experience with a variety of custom features, plugins, and a strong community.
 Our team is dedicated to providing players with unique gameplay features, regular updates, and top-notch performance.
-
 Join our community and explore the exciting world of Hardcore Factions!
 
 ---
