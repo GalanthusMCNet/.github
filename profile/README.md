@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gyazo.com/7f2cb8c4f398dda117c417929a91ae9b" alt="CynicPvP Network Logo">
+  <img src="https://gyazo.com/7f2cb8c4f398dda117c417929a91ae9b.png" alt="CynicPvP Network Logo">
   <br>
   <a href="https://github.com/CynicPvPNet">
     <img src="https://komarev.com/ghpvc/?username=GalanthusMCNet&style=plastic&color=blueviolet" alt="GitHub Profile View Counter">
@@ -71,8 +71,8 @@ We are proud to work with an amazing group of talented developers and contributo
 
 Feel free to reach out to us for any inquiries or suggestions!
 
-- **Discord**: [GalanthusMC Discord](https://discord.gg/cynicpvp)
-- **Twitter**: [@GalanthusMC](https://twitter.com/CynicPvP)
+- **Discord**: [CynicPvP Discord](https://discord.gg/cynicpvp)
+- **Twitter**: [@CyinicPvP](https://twitter.com/CynicPvP)
   
 ---
 
