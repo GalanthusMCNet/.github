@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="https://i.imgur.com/TE4akXw.png" alt="GalanthusMC Network Logo">
+  <img src="![image](https://github.com/user-attachments/assets/6ff8be60-9fe2-466f-8f4f-b0b12daed6d7)
+" alt="CynicPvP Network Logo">
   <br>
-  <a href="https://github.com/GalanthusMCNet">
+  <a href="https://github.com/CynicPvPNet">
     <img src="https://komarev.com/ghpvc/?username=GalanthusMCNet&style=plastic&color=blueviolet" alt="GitHub Profile View Counter">
   </a>
 </p>
 
 ---
 
-# Welcome to the GalanthusMC Network
+# Welcome to the CynicPvP Network
   
-GalanthusMC is a Minecraft Java HCF (Hardcore Factions) server focused on delivering an intense, action-packed experience with a variety of custom features, plugins, and a strong community.
+CynicPvP is a Minecraft Java HCF (Hardcore Factions) server focused on delivering an intense, action-packed experience with a variety of custom features, plugins, and a strong community.
 Our team is dedicated to providing players with unique gameplay features, regular updates, and top-notch performance.
 Join our community and explore the exciting world of Hardcore Factions!
 
@@ -18,7 +19,7 @@ Join our community and explore the exciting world of Hardcore Factions!
 
 ## 🚀 Technologies & Skills
 
-Here at GalanthusMC Network, we use a wide range of technologies to ensure optimal performance, a custom gaming experience, and a smooth server environment for players.
+Here at CynicPvP Network, we use a wide range of technologies to ensure optimal performance, a custom gaming experience, and a smooth server environment for players.
 
 ### Backend:
 - Java
@@ -53,7 +54,7 @@ Here at GalanthusMC Network, we use a wide range of technologies to ensure optim
 We are proud to work with an amazing group of talented developers and contributors:
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=hardcorefactions&data=followers,repositories,stars,commits" alt="hardcorefactions GitHub Profile">
+  //<img src="https://github-widgetbox.vercel.app/api/profile?username=hardcorefactions&data=followers,repositories,stars,commits" alt="hardcorefactions GitHub Profile">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=preift&data=followers,repositories,stars,commits" alt="preift GitHub Profile">
 </p>
 
@@ -72,9 +73,9 @@ We are proud to work with an amazing group of talented developers and contributo
 
 Feel free to reach out to us for any inquiries or suggestions!
 
-- **Discord**: [GalanthusMC Discord](https://discord.gg/galanthusmc)
-- **Twitter**: [@GalanthusMC](https://twitter.com/GalanthusMC)
+- **Discord**: [GalanthusMC Discord](https://discord.gg/cynicpvp)
+- **Twitter**: [@GalanthusMC](https://twitter.com/CynicPvP)
   
 ---
 
-<p align="center">Made with ❤️ by the GalanthusMC Network team.</p> 
+<p align="center">Made with ❤️ by the CynicPvP Network team.</p> 
