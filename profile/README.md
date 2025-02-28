@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/6ff8be60-9fe2-466f-8f4f-b0b12daed6d7)
-" alt="CynicPvP Network Logo">
+  <img src="https://gyazo.com/7f2cb8c4f398dda117c417929a91ae9b" alt="CynicPvP Network Logo">
   <br>
   <a href="https://github.com/CynicPvPNet">
     <img src="https://komarev.com/ghpvc/?username=GalanthusMCNet&style=plastic&color=blueviolet" alt="GitHub Profile View Counter">
@@ -54,7 +53,6 @@ Here at CynicPvP Network, we use a wide range of technologies to ensure optimal 
 We are proud to work with an amazing group of talented developers and contributors:
 
 <p align="center">
-  //<img src="https://github-widgetbox.vercel.app/api/profile?username=hardcorefactions&data=followers,repositories,stars,commits" alt="hardcorefactions GitHub Profile">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=preift&data=followers,repositories,stars,commits" alt="preift GitHub Profile">
 </p>
 
